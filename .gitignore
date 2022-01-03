@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.log
+*.json
+*.dag_fsmtime
+*.log
+furry-octo-telegram/Library/ArtifactDB
+*.digestcache
+furry-octo-telegram/Library/SourceAssetDB
