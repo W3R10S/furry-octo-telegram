@@ -65,3 +65,6 @@ crashlytics-build.properties
 furry-octo-telegram/Library/ArtifactDB
 *.digestcache
 furry-octo-telegram/Library/SourceAssetDB
+*.dwlt
+furry-octo-telegram/Library/SourceAssetDB
+*.log
